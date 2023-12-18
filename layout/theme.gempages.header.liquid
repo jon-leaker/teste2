@@ -662,7 +662,7 @@ Documentation:
 {% endcomment %}
 {% if settings.ajax_cart_method == "drawer" %}
 {{ 'handlebars.min.js' | asset_url | script_tag }}
-{% include 'ajax-cart-template' %}
+
 {{ 'ajax-cart.js' | asset_url | script_tag }}
 <script>
 jQuery(function($) {
@@ -682,6 +682,6 @@ jQuery(document.body).on('afterCartLoad.ajaxCart', function(evt, cart) {
 });
 </script>
 {% endif %}
-{% include 'back-to-the-top' %}
+
 </body>
 </html>
