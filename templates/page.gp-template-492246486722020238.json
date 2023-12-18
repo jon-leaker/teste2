@@ -1,0 +1,31 @@
+{
+  "layout": "theme.gempages.blank",
+  "sections": {
+    "gp_section_492246487258891150": {
+      "type": "gp-section-492246487258891150",
+      "settings": {
+      }
+    },
+    "gp_section_492246486839460750": {
+      "type": "gp-section-492246486839460750",
+      "settings": {
+      }
+    },
+    "gp_section_492246486889792398": {
+      "type": "gp-section-492246486889792398",
+      "settings": {
+      }
+    },
+    "gp_section_492246486805906318": {
+      "type": "gp-section-492246486805906318",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "gp_section_492246487258891150",
+    "gp_section_492246486839460750",
+    "gp_section_492246486889792398",
+    "gp_section_492246486805906318"
+  ]
+}
